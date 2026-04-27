@@ -94,6 +94,7 @@ The project analyzes:
 5. Used SQL to analyze the Gold tables
 6. Built a Databricks dashboard for business insights
 
-###Author
+##Author
+
 Sukhkirandeep Kaur Sidhu
 
