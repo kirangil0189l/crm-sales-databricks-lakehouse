@@ -83,7 +83,7 @@ The project analyzes:
 
 ## Dashboard Preview
 
-![Dashboard Overview](images/dashboardOverview.png)
+![Dashboard Overview](images/Dashboard.png)
 
 ## Project Workflow
 
